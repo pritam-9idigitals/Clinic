@@ -1,0 +1,43 @@
+.wehelpu{
+    padding: 9%;
+    padding-left: 9%;
+}
+.btn{
+    color: #fff;
+    background-color: #34656d;
+}
+.fas
+{
+    color: #34656d;
+    padding-right: 3%;
+}
+.hfour{
+    padding-bottom: 4%;
+}
+p{
+    display: inline-block;
+}
+
+
+/* Relevant right now  */
+.relevant
+{
+    color: #34656d;
+    text-align: center;
+    padding-bottom: 2%;
+
+}
+
+h5{
+    padding-bottom: 4%;
+}
+
+
+.imgone
+{
+    height: 30rem;
+    width: 41.4rem;
+    position: absolute;
+    border-top-left-radius: 47%;
+    border-bottom-left-radius: 30%;
+}

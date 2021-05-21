@@ -1,0 +1,17 @@
+.navbar-brand{
+    height: 60px;
+    width: 140px;
+}
+
+.navbar
+{
+    padding: 3% 10% 3% 10%;
+}
+.covoid19
+{
+    padding-top: 1%;
+    height: 3rem;
+    color: #fff;
+    background-color: #34656d;
+    text-align: center;
+}
