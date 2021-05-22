@@ -37,7 +37,7 @@ h5{
 {
     height: 30rem;
     width: 41.4rem;
-    position: absolute;
+    /* position: absolute; */
     border-top-left-radius: 47%;
     border-bottom-left-radius: 30%;
 }
